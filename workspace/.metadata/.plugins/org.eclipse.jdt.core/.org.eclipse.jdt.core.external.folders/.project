@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>C:/Users/Mayza Nunes/si1/lab2/target/scala-2.10/classes_managed</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>C:/Users/Mayza Nunes/workspace/hackfests/target/scala-2.10/classes_managed</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>C:/Users/Mayza Nunes/workspace/CCFest/target/scala-2.10/classes_managed</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="2" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="C:\Users\Mayza Nunes\git\CCFest\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/mayzabeel/CCFest"/>
+		<item value="https://github.com/Gleyser/hackfests"/>
+		<item value="https://github.com/felipemdrs/CCFest"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>
